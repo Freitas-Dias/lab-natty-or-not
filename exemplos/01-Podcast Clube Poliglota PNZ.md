@@ -14,7 +14,7 @@ Fundado em agosto de 2024 pelo Prof. Ricardo de Freitas Dias (UPE – Campus Pet
 Para o desenvolvimento deste podcast, foi utilizado um fluxo de produção moderno que garante agilidade sem abrir mão da qualidade pedagógica. Todo processo é dividido em quatro etapas estratégicas:
 
 1. Curadoria Especializada (O Cérebro do Projeto)
-Tudo começa com a seleção criteriosa de temas relevantes para o desenvolvimento linguístico e intercultural. Eu seleciono a base científica ou informativa do episódio, utilizando:
+Tudo começa com a seleção criteriosa de temas relevantes para o desenvolvimento linguístico e intercultural. Inicialmente é selecionado a base científica ou informativa do episódio, utilizando:
 - Artigos acadêmicos de alto impacto;
 - Reportagens internacionais;
 - Capítulos de livros essenciais.
@@ -23,12 +23,12 @@ Tudo começa com a seleção criteriosa de temas relevantes para o desenvolvimen
 Com a base teórica definida, eu utilizo o NotebookLM para transformar conteúdos densos em diálogos dinâmicos. Essa tecnologia permite que o conhecimento seja traduzido para o formato de áudio de maneira fluida, simulando uma discussão natural que facilita a compreensão e a imersão linguística do ouvinte.
 
 3. Otimização e Metadados (ChatGPT)
-Para garantir que o conteúdo chegue às pessoas certas, utilizamos o ChatGPT na etapa de redação criativa. Ele auxilia na criação de:
+Para garantir que o conteúdo chegue às pessoas certas, utilizamos o ChatGPT na etapa de redação criativa, no qual esta IA Generativa auxilia na criação de:
 - Títulos Magnéticos: Focados em engajamento e clareza.
 - Descrições Otimizadas: Textos que facilitam a busca (SEO) e preparam o ouvinte para o tema do dia.
 
 4. Supervisão Editorial e Qualidade (O Selo UPE)
-Antes de chegar ao one de ouvido do  usuário, cada episódio passa por uma supervisão rigorosa. Esta etapa final é o pilar de confiança do projeto: revisamos o conteúdo gerado para garantir precisão técnica, tom de voz adequado e relevância pedagógica. Só após essa validação humana o upload é realizado no Spotify for Creators.
+Antes de chegar ao fone de ouvido do  usuário, cada episódio passa por uma supervisão rigorosa. Esta etapa final é o pilar de confiança do projeto, ou seja, revisamos o conteúdo gerado para garantir precisão técnica, tom de voz adequado e relevância pedagógica. Só após essa validação humana o upload é realizado no Spotify for Creators.
 
 ## 🚀 Resultados
 
@@ -46,7 +46,7 @@ O episódio oferece um guia prático e estratégico sobre o conceito de Ilhas Li
 ## 🎙️ Podcast
 Cansado de saber a gramática mas travar na hora de falar? Destrave sua conversação agora com o método das Ilhas Linguísticas. Dê o play no Clube Poliglota PNZ e comece a falar com confiança hoje mesmo!
 
-Clique e confira!" 🔗 [Link do Podcast](https://open.spotify.com/episode/0WsxLbVnK2ITESifrU0wuu)
+Clique e confira! 🔗 [Link do Podcast](https://open.spotify.com/episode/0WsxLbVnK2ITESifrU0wuu)
 
 ## 💭 Reflexão (Opcional)
 
@@ -59,5 +59,3 @@ Este projeto, o podcast do "Clube Poliglota PNZ" é um laboratório vivo do futu
 👋 Participe do nosso grupo no WhatsApp 
 
 [clubepoliglotapnz](https://chat.whatsapp.com/C6dck7ttby0JIaUy4QBVLg)
-
-
