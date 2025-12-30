@@ -11,7 +11,7 @@ Fundado em agosto de 2024 pelo Prof. Ricardo de Freitas Dias (UPE – Campus Pet
 - Plataforma **[Spotify for Creators](https://creators.spotify.com/)** para hospedar o podcast.
 
 ## 🧐 Processo de Criação
-Eu utilizo um fluxo de produção moderno que garante agilidade sem abrir mão da qualidade pedagógica. O processo é dividido em quatro etapas estratégicas:
+Para o desenvolvimento deste podcast, foi utilizado um fluxo de produção moderno que garante agilidade sem abrir mão da qualidade pedagógica. Todo processo é dividido em quatro etapas estratégicas:
 
 1. Curadoria Especializada (O Cérebro do Projeto)
 Tudo começa com a seleção criteriosa de temas relevantes para o desenvolvimento linguístico e intercultural. Eu seleciono a base científica ou informativa do episódio, utilizando:
