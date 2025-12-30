@@ -43,6 +43,11 @@ O episódio oferece um guia prático e estratégico sobre o conceito de Ilhas Li
 
 "Qual seria o tema da sua primeira 'Ilha Linguística'? Deixe sua resposta aqui nos comentários e vamos praticar juntos!"
 
+## 🎙️ Podcast
+Cansado de saber a gramática mas travar na hora de falar? Destrave sua conversação agora com o método das Ilhas Linguísticas. Dê o play no Clube Poliglota PNZ e comece a falar com confiança hoje mesmo!
+
+Clique e confira!" 🔗 [Link do Podcast](https://open.spotify.com/episode/0WsxLbVnK2ITESifrU0wuu)
+
 ## 💭 Reflexão (Opcional)
 
 Este projeto, o podcast do "Clube Poliglota PNZ" é um laboratório vivo do futuro da criação de conteúdo. Para mim, este projeto reflete o desafio e a recompensa de buscar o que chamamos de 'natty' (a autenticidade, a naturalidade e a fluidez) mesmo quando se trabalha com inteligência artificial. Neste projeto podemos observar como a infomação acadêmica e a IA pode democratizar o acesso ao bilinguismo, transformando conteúdos complexos em experiências auditivas dinâmicas que preparam o cidadão para um mundo globalizado.
